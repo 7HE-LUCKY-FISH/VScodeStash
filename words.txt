@@ -1,0 +1,5 @@
+Hello, world! This is a test file. Are World if not
+This file contains some duplicate 
+    words, some unique words, and some punctuation. Words
+Notice that "woRds," "words" and "words."     are considered different if punctuation is not removed.
+Unique words are fun. Duplicate duplicate.
